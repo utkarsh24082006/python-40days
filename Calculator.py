@@ -1,0 +1,6 @@
+num1 = float(input("Enter First Number : "))
+num2 = float(input("Enter Second Number : "))
+print(f"Add : {num1 + num2}")
+print(f"Subtract : {num1-num2}")
+print(f"Multiply : {num1*num2}")
+print(f"Divide : {num1/num2}")
