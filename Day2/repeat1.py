@@ -1,6 +1,6 @@
 def main():
     number = get_number()
-    yeah(number)
+    yeah(3)
 
 
 def get_number():
